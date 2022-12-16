@@ -24,12 +24,20 @@
 }
 .font2:hover{
     background: rgba(212, 10, 185, 0.4);
- transform: perspective(1000px) rotateX(20deg) rotateY(1.38.5deg) scale3d(1.04, 1.03, 1.05);
+ transform: perspective(1000px) rotateX(10deg) rotateY(4deg) scale3d(1.04, 1.03, 1.05);
 }
 
 .margin{
     padding-top: 30px;
     padding-left: 30px;
+}
+
+.margin2{
+    padding-left: 30px; 
+}
+
+.button{
+    padding-left: 10px;
 }
 
 .font3{
