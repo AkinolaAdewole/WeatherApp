@@ -18,6 +18,8 @@ async   function getData() {
 
 
 
+         
+
          let table = `<table border="5" align="center">
          <tr><td>city</td><td>country</td><td>temperature</td><td>humidity</td><td>pressure</td></tr>
          <tbody>`
