@@ -9,6 +9,7 @@ async   function getData() {
 
         console.log(resp);
         
+        
           city.innerHTML = resp.name;
          country.innerHTML = resp.sys.country;
          temperature.innerHTML = resp.main.temp-273 +"°C";
